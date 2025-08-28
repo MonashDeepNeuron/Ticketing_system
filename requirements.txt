@@ -1,0 +1,4 @@
+gspread
+oauth2client
+notion-client
+python-dotenv
